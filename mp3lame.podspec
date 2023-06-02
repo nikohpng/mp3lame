@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/heping/mp3lame'
+  s.homepage         = 'https://github.com/nikohpng/mp3lame'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'heping' => 'hepingadjust@163.com' }
 
