@@ -11,10 +11,11 @@ TODO: Add long description of the pod here.
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'heping' => 'hepingadjust@163.com' }
 
+  s.source = { :git => 'https://github.com/nikohpng/mp3lame.git', :tag => s.version.to_s }
+
   s.ios.deployment_target = "10.0"
   s.osx.deployment_target = "10.10"
 
-  s.source = { :local => "./mp3lame.xcframework"}
   s.vendored_frameworks = 'mp3lame.xcframework'
 
 end
