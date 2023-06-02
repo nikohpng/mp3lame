@@ -22,7 +22,7 @@ pod 'mp3lame'
 
 ## Author
 
-heping, heping@yuwei-tech.com
+heping
 
 ## License
 

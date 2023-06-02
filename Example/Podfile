@@ -1,6 +1,0 @@
-use_frameworks!
-target 'mp3lame_Tests' do
-  pod 'mp3lame', :path => '../'
-  
-  
-end
